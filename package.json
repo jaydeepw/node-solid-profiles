@@ -1,0 +1,22 @@
+{
+  "name": "solid-profiles",
+  "version": "1.0.0",
+  "description": "A simple app that exposes an API that adheres to SOLID principles of software development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydeepw/node-solid-profiles.git"
+  },
+  "author": "JW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaydeepw/node-solid-profiles/issues"
+  },
+  "homepage": "https://github.com/jaydeepw/node-solid-profiles#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
